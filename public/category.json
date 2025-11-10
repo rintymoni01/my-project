@@ -1,0 +1,50 @@
+[
+  
+
+
+
+
+  {
+    "id": 1,
+    "name": "Shart",
+    "image": "https://i.ibb.co.com/dsGmQ9c9/c-1.png",
+    "discount": "30%",
+    "items": 320
+  },
+  {
+    "id": 2,
+    "name": "Watches",
+    "image": "https://i.ibb.co.com/JWL868jW/c-2.png",
+    "discount": "25%",
+    "items": 65
+  },
+   {
+    "id": 6,
+    "name": "Lipstick",
+    "image": "https://i.ibb.co.com/yF96YqXt/54-1.jpg",
+    "discount": "18%",
+    "items": 845
+  },
+  {
+    "id": 3,
+    "name": "Glasses",
+    "image": "https://i.ibb.co.com/wFvrQLNp/c-4.png",
+    "discount": "15%",
+    "items": 548
+  },
+  {
+    "id": 4,
+    "name": "Drees",
+    "image": "https://i.ibb.co.com/F9rcQGy/c-3-1.png",
+    "discount": "10%",
+    "items": 48
+  },
+  {
+    "id": 5,
+    "name": "Cap",
+    "image": "https://i.ibb.co.com/1YmsyjB1/c-5.png",
+    "discount": "12%",
+    "items": 59
+  }
+ 
+]

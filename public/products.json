@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "Potato Chips 52g, American Cream & Onion Flavour",
+    "category": "Snacks",
+    "price": 664,
+    "oldPrice": 2999,
+    "discount": 78,
+    "rating": 4,
+    "ratingsCount": 992,
+    "inStock": true,
+    "sku": "WH12",
+    "image": "https://i.ibb.co.com/whTQx9W7/39-2.jpg",
+    "gallery": [
+      "/images/products/chips.png",
+      "/images/products/choco.png",
+      "/images/products/nuts.png",
+      "/images/products/chips-pack.png"
+    ],
+    "description": "Crispy and crunchy potato chips with American cream and onion flavour for snack lovers.",
+    "details": {
+      "Closure": "Hook & Loop",
+      "Sole": "Polyvinyl Chloride",
+      "Width": "Medium",
+      "Outer Material": "A-Grade Standard Quality"
+    },
+    "weightOptions": ["250g", "500g", "1kg", "2kg"]
+  },
+  {
+    "id": 2,
+    "categoryId": 2,
+    "name": "Chocolate Cookies 150g Pack",
+    "category": "Bakery",
+    "price": 299,
+    "oldPrice": 499,
+    "discount": 40,
+    "rating": 5,
+    "ratingsCount": 654,
+    "inStock": true,
+    "sku": "BK23",
+    "image": "https://i.ibb.co.com/7JD0JL01/34-2.jpg",
+    "gallery": ["/images/products/cookies.png", "/images/products/cookies-2.png"],
+    "description": "Crunchy chocolate cookies made from high-quality cocoa and pure butter.",
+    "details": {
+      "Type": "Crunchy",
+      "Flavour": "Chocolate",
+      "Weight": "150g"
+    },
+    "weightOptions": ["150g", "300g"]
+  },
+  {
+    "id": 3,
+    "categoryId": 3,
+    "name": "Organic Green Tea 250g",
+    "category": "Beverages",
+    "price": 425,
+    "oldPrice": 699,
+    "discount": 39,
+    "rating": 4.5,
+    "ratingsCount": 420,
+    "inStock": true,
+    "sku": "BV45",
+    "image": "https://i.ibb.co.com/7dgn23jR/32-1.jpg",
+    "gallery": ["/images/products/tea.png", "/images/products/tea-pack.png"],
+    "description": "100% organic green tea sourced from the hills of Darjeeling. Great for detox and relaxation.",
+    "details": {
+      "Origin": "India",
+      "Type": "Loose Leaf",
+      "Certification": "Organic Certified"
+    },
+    "weightOptions": ["250g", "500g", "1kg"]
+  },
+  {
+    "id": 4,
+    "categoryId": 4,
+    "name": "Fresh Mango Juice 1L",
+    "category": "Juice & Drinks",
+    "price": 180,
+    "oldPrice": 249,
+    "discount": 28,
+    "rating": 4.3,
+    "ratingsCount": 320,
+    "inStock": true,
+    "sku": "JD12",
+    "image": "https://i.ibb.co.com/xth0f9Rz/38-1.jpg",
+    "gallery": ["/images/products/mango-juice.png"],
+    "description": "Delicious mango juice made from fresh alphonso mangoes. No preservatives added.",
+    "details": {
+      "Flavor": "Mango",
+      "Volume": "1L",
+      "Ingredients": "Mango Pulp, Sugar, Water"
+    },
+    "weightOptions": ["1L", "2L"]
+  },
+  {
+    "id": 5,
+    "categoryId": 5,
+    "name": "Men’s Casual T-Shirt",
+    "category": "Clothes",
+    "price": 899,
+    "oldPrice": 1499,
+    "discount": 40,
+    "rating": 4.7,
+    "ratingsCount": 820,
+    "inStock": true,
+    "sku": "CL55",
+    "image": "https://i.ibb.co.com/v6GRHKFy/c-7.png",
+    "gallery": ["/images/products/tshirt.png", "/images/products/tshirt-2.png"],
+    "description": "Comfortable cotton t-shirt perfect for casual outings. Available in multiple colors.",
+    "details": {
+      "Material": "100% Cotton",
+      "Fit": "Regular",
+      "Sizes": "S, M, L, XL"
+    },
+    "weightOptions": []
+  },
+  {
+    "id": 6,
+    "categoryId": 6,
+    "name": "Digital Smart Watch",
+    "category": "Watches",
+    "price": 2499,
+    "oldPrice": 3999,
+    "discount": 38,
+    "rating": 4.6,
+    "ratingsCount": 1221,
+    "inStock": true,
+    "sku": "WT90",
+    "image": "https://i.ibb.co.com/RkNgdcQv/35-1.jpg",
+    "gallery": ["/images/products/watch.png"],
+    "description": "Stylish smartwatch with heart-rate monitor, Bluetooth, and long-lasting battery life.",
+    "details": {
+      "Display": "1.7-inch AMOLED",
+      "Battery Life": "7 Days",
+      "Water Resistance": "Yes"
+    },
+    "weightOptions": []
+  },
+  {
+    "id": 7,
+    "categoryId": 7,
+    "name": "Ladies Summer Dress",
+    "category": "Dresses",
+    "price": 1299,
+    "oldPrice": 1999,
+    "discount": 35,
+    "rating": 4.4,
+    "ratingsCount": 764,
+    "inStock": true,
+    "sku": "DR78",
+    "image": "https://i.ibb.co.com/MydNXp3K/34-1.jpg",
+    "gallery": ["/images/products/dress.png", "/images/products/dress-2.png"],
+    "description": "Light and comfortable floral summer dress made of soft cotton blend fabric.",
+    "details": {
+      "Material": "Cotton Blend",
+      "Fit": "A-Line",
+      "Pattern": "Floral"
+    },
+    "weightOptions": []
+  },
+  {
+    "id": 8,
+    "categoryId": 8,
+    "name": "Stylish Sunglasses",
+    "category": "Glasses",
+    "price": 799,
+    "oldPrice": 1299,
+    "discount": 38,
+    "rating": 4.5,
+    "ratingsCount": 520,
+    "inStock": true,
+    "sku": "GL34",
+    "image": "https://i.ibb.co.com/VY5wNLPY/33-1.jpg",
+    "gallery": ["/images/products/glasses.png"],
+    "description": "Trendy unisex sunglasses with UV protection lenses and lightweight frame.",
+    "details": {
+      "Lens Type": "UV400",
+      "Frame": "Plastic",
+      "Style": "Unisex"
+    },
+    "weightOptions": []
+  },
+  {
+    "id": 9,
+    "categoryId": 9,
+    "name": "Cotton Shorts",
+    "category": "Shorts",
+    "price": 650,
+    "oldPrice": 999,
+    "discount": 35,
+    "rating": 4.2,
+    "ratingsCount": 312,
+    "inStock": true,
+    "sku": "SH21",
+    "image": "https://i.ibb.co.com/WWYh5cw1/32-2.jpg",
+    "gallery": ["/images/products/shorts.png", "/images/products/shorts-2.png"],
+    "description": "Soft cotton shorts ideal for summer wear, comes with side pockets.",
+    "details": {
+      "Material": "Cotton",
+      "Fit": "Slim",
+      "Sizes": "M, L, XL"
+    },
+    "weightOptions": []
+  },
+  {
+    "id": 10,
+    "categoryId": 10,
+    "name": "Leather Hat",
+    "category": "Hat & Caps",
+    "price": 999,
+    "oldPrice": 1599,
+    "discount": 38,
+    "rating": 4.6,
+    "ratingsCount": 440,
+    "inStock": true,
+    "sku": "HC99",
+    "image": "https://i.ibb.co.com/whTQx9W7/39-2.jpg",
+    "gallery": ["/images/products/hat.png"],
+    "description": "Premium quality leather hat perfect for sun protection and style.",
+    "details": {
+      "Material": "Genuine Leather",
+      "Color": "Brown",
+      "Size": "Free"
+    },
+    "weightOptions": []
+  }
+]
+
+
+
+
