@@ -15,7 +15,7 @@ const useData = () => {
                  .then(res=>res.json())
                  .then(data=>setProducts(data)
                  )
-        },[])
+        },[]);
     return {categories,products}
   
 };

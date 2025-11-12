@@ -25,7 +25,8 @@
       "Width": "Medium",
       "Outer Material": "A-Grade Standard Quality"
     },
-    "weightOptions": ["250g", "500g", "1kg", "2kg"]
+    "weightOptions": ["250g", "500g", "1kg", "2kg"],
+    "width": "Medium"
   },
   {
     "id": 2,
@@ -47,7 +48,8 @@
       "Flavour": "Chocolate",
       "Weight": "150g"
     },
-    "weightOptions": ["150g", "300g"]
+    "weightOptions": ["150g", "300g"],
+    "width": "Free Size"
   },
   {
     "id": 3,
@@ -69,7 +71,8 @@
       "Type": "Loose Leaf",
       "Certification": "Organic Certified"
     },
-    "weightOptions": ["250g", "500g", "1kg"]
+    "weightOptions": ["250g", "500g", "1kg"],
+    "width": "Medium"
   },
   {
     "id": 4,
@@ -91,7 +94,8 @@
       "Volume": "1L",
       "Ingredients": "Mango Pulp, Sugar, Water"
     },
-    "weightOptions": ["1L", "2L"]
+    "weightOptions": ["1L", "2L"],
+    "width": "Slim Fit"
   },
   {
     "id": 5,
@@ -113,7 +117,8 @@
       "Fit": "Regular",
       "Sizes": "S, M, L, XL"
     },
-    "weightOptions": []
+    "weightOptions": [],
+    "width": "Medium"
   },
   {
     "id": 6,
@@ -135,7 +140,8 @@
       "Battery Life": "7 Days",
       "Water Resistance": "Yes"
     },
-    "weightOptions": []
+    "weightOptions": [],
+    "width": "Standard"
   },
   {
     "id": 7,
@@ -157,7 +163,8 @@
       "Fit": "A-Line",
       "Pattern": "Floral"
     },
-    "weightOptions": []
+    "weightOptions": [],
+    "width":"Regular Fit"
   },
   {
     "id": 8,
@@ -179,7 +186,8 @@
       "Frame": "Plastic",
       "Style": "Unisex"
     },
-    "weightOptions": []
+    "weightOptions": [],
+    "width": "Slim Fit"
   },
   {
     "id": 9,
@@ -201,7 +209,8 @@
       "Fit": "Slim",
       "Sizes": "M, L, XL"
     },
-    "weightOptions": []
+    "weightOptions": [],
+    "width": "ComPact"
   },
   {
     "id": 10,
@@ -223,10 +232,7 @@
       "Color": "Brown",
       "Size": "Free"
     },
-    "weightOptions": []
+    "weightOptions": [],
+    "width": "Regular Fit"
   }
 ]
-
-
-
-
