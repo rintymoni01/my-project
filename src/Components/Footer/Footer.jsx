@@ -1,10 +1,10 @@
 import React from 'react';
-import img1 from "../../assets/Image/Rintymini.png";
+
 import { LuMapPin } from "react-icons/lu";
 import { IoLogoWhatsapp } from "react-icons/io5";
 import { MdOutlineMail } from "react-icons/md";
 import { FaFacebookSquare, FaTwitterSquare, FaLinkedin, FaInstagramSquare } from "react-icons/fa";
-import img2 from "../../assets/Image/google.png";
+
 
 const Footer = () => {
     return (
@@ -13,11 +13,11 @@ const Footer = () => {
                 
                 {/* Logo + Description */}
                 <div className='flex flex-col gap-4'>
-                    <img className='h-16 w-36' src={img1} alt="Logo" />
+                    <img className='h-16 w-36' src="/Rintymini.png" alt="Logo" />
                     <p className='text-gray-600 text-sm sm:text-base'>
                         Grabit is the biggest market of grocery <br />products. Get your daily needs from our <br />store.
                     </p>
-                    <img className='w-40' src={img2} alt="Google Play" />
+                    <img className='w-40' src="/google.png" alt="Google Play" />
                 </div>
 
                 {/* Footer Columns */}

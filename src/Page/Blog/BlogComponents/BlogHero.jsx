@@ -1,7 +1,5 @@
 import React from 'react';
-import img4 from "../../../assets/Image/about.png";
-import img5 from "../../../assets/Image/about-2.png";
-import img6 from "../../../assets/Image/about-3.png";
+
 import SectionHeading from '../../../Components/Sheard/SectionHeading';
 
 const BlogHero = () => {
@@ -11,10 +9,10 @@ const BlogHero = () => {
                 
                 {/* Images Section */}
                 <div className='flex flex-col lg:flex-row flex-1 gap-4 w-full'>
-                    <img className='w-full lg:w-68 rounded-md' src={img4} alt="Main" />
+                    <img className='w-full lg:w-68 rounded-md' src="/about.png" alt="Main" />
                     <div className='flex flex-col gap-4 w-full lg:w-auto'>
-                        <img className='w-full lg:w-68 rounded-md' src={img5} alt="Sub1" />
-                        <img className='w-full lg:w-68 rounded-md' src={img6} alt="Sub2" />
+                        <img className='w-full lg:w-68 rounded-md' src="/about-2.png" alt="Sub1" />
+                        <img className='w-full lg:w-68 rounded-md' src="/about-3.png" alt="Sub2" />
                     </div>
                 </div>
 

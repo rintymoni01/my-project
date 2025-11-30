@@ -5,7 +5,7 @@ import SingleProductPage from '../../Components/Sheard/SingleProductPage';
 const Products = () => {
     return (
         <div>
-            <SingleProductPage></SingleProductPage>
+            <SingleProductPage ></SingleProductPage>
         </div>
     );
 };

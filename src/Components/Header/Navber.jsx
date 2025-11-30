@@ -60,12 +60,9 @@ const Navber = () => {
                         </select>
                     </NavLink>
 
-                    <NavLink className={({isActive})=>isActive?'th':''} to="/offers">
-                        <select className='h-8 w-20 sm:w-24 text-xs lg:h-9 lg:w-19'>
-                            <option>Offers</option>
-                            <option>Current Location</option>
-                        </select>
-                    </NavLink>
+                   <div className='items-center h-8 w-20 sm:w-24 pt-3 text-xs lg:h-9 lg:w-19'>
+                     <p>Offer</p>
+                   </div>
                 </div>
 
                 {/* ===== Right: Location (Hidden on mobile) ===== */}

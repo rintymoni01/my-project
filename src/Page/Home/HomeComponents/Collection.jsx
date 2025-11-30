@@ -1,7 +1,6 @@
 import React from 'react';
-import img01 from "../../../assets/Image/12.jpg";
-import img02 from "../../../assets/Image/13.jpg";
-import img03 from "../../../assets/Image/14.jpg";
+
+
 import { Link } from 'react-router-dom';
 
 const Collection = () => {
@@ -12,7 +11,7 @@ const Collection = () => {
                 {/* Women's Collection */}
                 <div 
                     className='flex flex-col w-full lg:w-1/3 bg-cover py-9 px-8 items-end rounded-md'
-                    style={{ backgroundImage: `url(${img01})` }}
+                    style={{ backgroundImage: `url(/12.jpg)` }}
                 >
                     <h3 className='text-end text-white text-3xl font-semibold mb-4'>
                         Women's <br /> Collection
@@ -25,7 +24,7 @@ const Collection = () => {
                 {/* Kid's Collection */}
                 <div 
                     className='flex flex-col w-full lg:w-1/3 bg-cover py-9 px-8 items-end rounded-md'
-                    style={{ backgroundImage: `url(${img02})` }}
+                    style={{ backgroundImage: `url(/13.jpg)` }}
                 >
                     <h3 className='text-end text-white text-3xl font-semibold mb-4'>
                         Kid's <br /> Collection
@@ -38,7 +37,7 @@ const Collection = () => {
                 {/* Men's Collection */}
                 <div 
                     className='flex flex-col w-full lg:w-1/3 bg-cover py-9 px-8 items-end rounded-md'
-                    style={{ backgroundImage: `url(${img03})` }}
+                    style={{ backgroundImage: `url(/14.jpg)` }}
                 >
                     <h3 className='text-end text-white text-3xl font-semibold mb-4'>
                         Men's <br /> Collection

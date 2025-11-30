@@ -9,11 +9,11 @@ const MidHeader = () => {
 
       {/* ===== Left: Logo ===== */}
       <div>
-        <img 
-          className='h-10 w-auto sm:h-12 md:h-14' 
-          src="src/assets/Image/Rintymini.png" 
-          alt="Logo" 
-        />
+       <img
+  className="h-10 sm:h-12 md:h-14 w-auto"
+  src="/Rintymini.png"
+  alt="Logo"
+/>
       </div>
 
       {/* ===== Middle/Right: Search Bar ===== */}
